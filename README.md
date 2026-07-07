@@ -6,3 +6,6 @@
 </p>
 
 Sample Output
+<p align="center">
+  <img src="./images/HHI_HOI_triplet.png" width="700">
+</p>
