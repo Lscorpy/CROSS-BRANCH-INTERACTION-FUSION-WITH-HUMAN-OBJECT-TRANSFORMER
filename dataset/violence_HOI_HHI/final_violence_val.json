@@ -1,0 +1,9328 @@
+[
+  {
+    "file_name": "assault_violence (101)_frame_00002.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          101.0,
+          227.0,
+          74.0,
+          173.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          273.0,
+          233.0,
+          54.0,
+          151.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          184.0,
+          253.0,
+          52.0,
+          108.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          157.0,
+          300.0,
+          52.0,
+          75.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 3
+      },
+      {
+        "bbox": [
+          226.0,
+          298.0,
+          44.0,
+          88.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 4
+      },
+      {
+        "bbox": [
+          99.0,
+          198.0,
+          34.0,
+          38.0
+        ],
+        "category_id": 39,
+        "actual_category": "baseball bat",
+        "id": 5
+      },
+      {
+        "bbox": [
+          192.0,
+          211.0,
+          28.0,
+          52.0
+        ],
+        "category_id": 92,
+        "actual_category": "stick",
+        "id": 6
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 5,
+        "category_id": 2,
+        "verb_name": "raise"
+      },
+      {
+        "subject_id": 2,
+        "object_id": 6,
+        "category_id": 2,
+        "verb_name": "raise"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 3,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      },
+      {
+        "subject_id": 2,
+        "victim_id": 4,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      },
+      {
+        "subject_id": 1,
+        "victim_id": 4,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "assault_violence (102)_frame_00000.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          169.0,
+          276.0,
+          143.0,
+          89.0
+        ],
+        "category_id": 15,
+        "actual_category": "bench",
+        "id": 0
+      },
+      {
+        "bbox": [
+          221.0,
+          254.0,
+          43.0,
+          118.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          181.0,
+          255.0,
+          43.0,
+          115.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 1,
+        "object_id": 0,
+        "category_id": 4,
+        "verb_name": "sit"
+      },
+      {
+        "subject_id": 2,
+        "object_id": 0,
+        "category_id": 4,
+        "verb_name": "sit"
+      }
+    ],
+    "violence_annotation": [],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "assault_violence (102)_frame_00002.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          116.0,
+          224.0,
+          72.0,
+          178.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          246.0,
+          227.0,
+          55.0,
+          161.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          199.0,
+          251.0,
+          48.0,
+          126.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          163.0,
+          252.0,
+          38.0,
+          123.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 3
+      },
+      {
+        "bbox": [
+          159.0,
+          174.0,
+          18.0,
+          72.0
+        ],
+        "category_id": 43,
+        "actual_category": "tennis racket",
+        "id": 4
+      },
+      {
+        "bbox": [
+          104.0,
+          265.0,
+          26.0,
+          110.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 5
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 4,
+        "category_id": 2,
+        "verb_name": "raise"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 3,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      },
+      {
+        "subject_id": 1,
+        "victim_id": 2,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "assault_violence (102)_frame_00003.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          90.0,
+          217.0,
+          76.0,
+          181.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          233.0,
+          226.0,
+          59.0,
+          156.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          188.0,
+          254.0,
+          40.0,
+          119.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          149.0,
+          256.0,
+          47.0,
+          118.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 3
+      },
+      {
+        "bbox": [
+          90.0,
+          195.0,
+          73.0,
+          39.0
+        ],
+        "category_id": 39,
+        "actual_category": "baseball bat",
+        "id": 4
+      },
+      {
+        "bbox": [
+          270.0,
+          205.0,
+          18.0,
+          41.0
+        ],
+        "category_id": 39,
+        "actual_category": "baseball bat",
+        "id": 5
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 5,
+        "category_id": 2,
+        "verb_name": "raise"
+      },
+      {
+        "subject_id": 0,
+        "object_id": 4,
+        "category_id": 2,
+        "verb_name": "raise"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 3,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      },
+      {
+        "subject_id": 1,
+        "victim_id": 2,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "assault_violence (103)_frame_00001.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          64.0,
+          233.0,
+          105.0,
+          216.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          181.0,
+          236.0,
+          72.0,
+          140.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          242.0,
+          225.0,
+          80.0,
+          155.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          443.0,
+          261.0,
+          36.0,
+          194.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 3
+      },
+      {
+        "bbox": [
+          228.0,
+          258.0,
+          45.0,
+          103.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 4
+      },
+      {
+        "bbox": [
+          118.0,
+          289.0,
+          52.0,
+          45.0
+        ],
+        "category_id": 92,
+        "actual_category": "stick",
+        "id": 5
+      },
+      {
+        "bbox": [
+          255.0,
+          196.0,
+          23.0,
+          46.0
+        ],
+        "category_id": 92,
+        "actual_category": "stick",
+        "id": 6
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 5,
+        "category_id": 3,
+        "verb_name": "hold"
+      },
+      {
+        "subject_id": 2,
+        "object_id": 6,
+        "category_id": 2,
+        "verb_name": "raise"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 2,
+        "victim_id": 4,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      },
+      {
+        "subject_id": 0,
+        "victim_id": 1,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "assault_violence (103)_frame_00004.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          163.0,
+          204.0,
+          77.0,
+          195.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          249.0,
+          211.0,
+          53.0,
+          141.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          109.0,
+          222.0,
+          43.0,
+          142.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          0.0,
+          245.0,
+          20.0,
+          103.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 3
+      },
+      {
+        "bbox": [
+          201.0,
+          296.0,
+          24.0,
+          100.0
+        ],
+        "category_id": 39,
+        "actual_category": "baseball bat",
+        "id": 4
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 4,
+        "category_id": 3,
+        "verb_name": "hold"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": -1,
+        "target_visible": false,
+        "target_type": "human",
+        "category_id": 0,
+        "violence_name": "threaten"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "assault_violence (13)_frame_00003.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          214.0,
+          229.0,
+          53.0,
+          163.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          253.0,
+          229.0,
+          53.0,
+          152.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          132.0,
+          233.0,
+          61.0,
+          145.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          189.0,
+          273.0,
+          35.0,
+          101.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 3
+      },
+      {
+        "bbox": [
+          83.0,
+          230.0,
+          73.0,
+          16.0
+        ],
+        "category_id": 92,
+        "actual_category": "stick",
+        "id": 4
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 2,
+        "object_id": 4,
+        "category_id": 2,
+        "verb_name": "raise"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 2,
+        "victim_id": 3,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      },
+      {
+        "subject_id": 1,
+        "victim_id": 3,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "assault_violence (15)_frame_00004.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          334.0,
+          234.0,
+          68.0,
+          175.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          242.0,
+          230.0,
+          77.0,
+          177.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          228.0,
+          213.0,
+          41.0,
+          176.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          289.0,
+          233.0,
+          44.0,
+          142.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 3
+      },
+      {
+        "bbox": [
+          289.0,
+          306.0,
+          44.0,
+          49.0
+        ],
+        "category_id": 39,
+        "actual_category": "baseball bat",
+        "id": 4
+      },
+      {
+        "bbox": [
+          244,
+          172,
+          38,
+          30
+        ],
+        "category_id": 92,
+        "actual_category": "stick",
+        "id": 5
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 1,
+        "object_id": 4,
+        "category_id": 1,
+        "verb_name": "hit"
+      },
+      {
+        "subject_id": 2,
+        "object_id": 5,
+        "category_id": 2,
+        "verb_name": "raise"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 1,
+        "victim_id": 3,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      },
+      {
+        "subject_id": 2,
+        "victim_id": 3,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      },
+      {
+        "subject_id": 0,
+        "victim_id": 3,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "assault_violence (16)_frame_00001.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          0.0,
+          295.0,
+          178.0,
+          162.0
+        ],
+        "category_id": 15,
+        "actual_category": "bench",
+        "id": 0
+      },
+      {
+        "bbox": [
+          111.0,
+          265.0,
+          138.0,
+          167.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 1,
+        "object_id": 0,
+        "category_id": 4,
+        "verb_name": "sit"
+      }
+    ],
+    "violence_annotation": [],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "assault_violence (17)_frame_00001.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          102.0,
+          260.0,
+          105.0,
+          172.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          414.0,
+          220.0,
+          65.0,
+          183.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          1.0,
+          297.0,
+          156.0,
+          160.0
+        ],
+        "category_id": 15,
+        "actual_category": "bench",
+        "id": 2
+      },
+      {
+        "bbox": [
+          362.0,
+          239.0,
+          69.0,
+          149.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 3
+      },
+      {
+        "bbox": [
+          373,
+          319,
+          57,
+          25
+        ],
+        "category_id": 43,
+        "actual_category": "tennis racket",
+        "id": 4
+      },
+      {
+        "bbox": [
+          371,
+          265,
+          24,
+          53
+        ],
+        "category_id": 39,
+        "actual_category": "baseball bat",
+        "id": 5
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 2,
+        "category_id": 4,
+        "verb_name": "sit"
+      },
+      {
+        "subject_id": 1,
+        "object_id": 4,
+        "category_id": 3,
+        "verb_name": "hold"
+      },
+      {
+        "subject_id": 3,
+        "object_id": 5,
+        "category_id": 3,
+        "verb_name": "hold"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 3,
+        "victim_id": 0,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 0,
+        "violence_name": "threaten"
+      },
+      {
+        "subject_id": 1,
+        "victim_id": 0,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 0,
+        "violence_name": "threaten"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "assault_violence (17)_frame_00002.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          1.0,
+          302.0,
+          160.0,
+          154.0
+        ],
+        "category_id": 15,
+        "actual_category": "bench",
+        "id": 0
+      },
+      {
+        "bbox": [
+          45.0,
+          276.0,
+          151.0,
+          144.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          162.0,
+          262.0,
+          124.0,
+          198.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          193.0,
+          225.0,
+          46.0,
+          70.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 3
+      },
+      {
+        "bbox": [
+          87.0,
+          232.0,
+          83.0,
+          45.0
+        ],
+        "category_id": 39,
+        "actual_category": "baseball bat",
+        "id": 4
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 3,
+        "object_id": 4,
+        "category_id": 1,
+        "verb_name": "hit"
+      },
+      {
+        "subject_id": 1,
+        "object_id": 0,
+        "category_id": 4,
+        "verb_name": "sit"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 3,
+        "victim_id": 1,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      },
+      {
+        "subject_id": 2,
+        "victim_id": 1,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "assault_violence (17)_frame_00003.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          0.0,
+          300.0,
+          159.0,
+          157.0
+        ],
+        "category_id": 15,
+        "actual_category": "bench",
+        "id": 0
+      },
+      {
+        "bbox": [
+          153.0,
+          265.0,
+          133.0,
+          196.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          53.0,
+          262.0,
+          145.0,
+          149.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          181.0,
+          231.0,
+          55.0,
+          57.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 3
+      },
+      {
+        "bbox": [
+          69.0,
+          251.0,
+          83.0,
+          43.0
+        ],
+        "category_id": 39,
+        "actual_category": "baseball bat",
+        "id": 4
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 3,
+        "object_id": 4,
+        "category_id": 1,
+        "verb_name": "hit"
+      },
+      {
+        "subject_id": 2,
+        "object_id": 0,
+        "category_id": 4,
+        "verb_name": "sit"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 1,
+        "victim_id": 2,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      },
+      {
+        "subject_id": 3,
+        "victim_id": 2,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "assault_violence (18)_frame_00003.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          0.0,
+          232.0,
+          84.0,
+          263.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          181.0,
+          210.0,
+          77.0,
+          210.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          63.0,
+          271.0,
+          110.0,
+          166.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          119.0,
+          285.0,
+          92.0,
+          141.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 3
+      },
+      {
+        "bbox": [
+          16.0,
+          270.0,
+          119.0,
+          188.0
+        ],
+        "category_id": 15,
+        "actual_category": "bench",
+        "id": 4
+      },
+      {
+        "bbox": [
+          170.0,
+          206.0,
+          33.0,
+          81.0
+        ],
+        "category_id": 39,
+        "actual_category": "baseball bat",
+        "id": 5
+      },
+      {
+        "bbox": [
+          69,
+          324,
+          92,
+          32
+        ],
+        "category_id": 43,
+        "actual_category": "tennis racket",
+        "id": 6
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 1,
+        "object_id": 5,
+        "category_id": 1,
+        "verb_name": "hit"
+      },
+      {
+        "subject_id": 2,
+        "object_id": 4,
+        "category_id": 4,
+        "verb_name": "sit"
+      },
+      {
+        "subject_id": 3,
+        "object_id": 4,
+        "category_id": 4,
+        "verb_name": "sit"
+      },
+      {
+        "subject_id": 0,
+        "object_id": 6,
+        "category_id": 1,
+        "verb_name": "hit"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 2,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      },
+      {
+        "subject_id": 1,
+        "victim_id": 3,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "assault_violence (19)_frame_00000.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          399.0,
+          219.0,
+          80.0,
+          220.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          87.0,
+          259.0,
+          111.0,
+          182.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          2.0,
+          291.0,
+          211.0,
+          164.0
+        ],
+        "category_id": 15,
+        "actual_category": "bench",
+        "id": 2
+      },
+      {
+        "bbox": [
+          397,
+          359,
+          44,
+          29
+        ],
+        "category_id": 43,
+        "actual_category": "tennis racket",
+        "id": 3
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 1,
+        "object_id": 2,
+        "category_id": 4,
+        "verb_name": "sit"
+      },
+      {
+        "subject_id": 0,
+        "object_id": 3,
+        "category_id": 3,
+        "verb_name": "hold"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 1,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 0,
+        "violence_name": "threaten"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "assault_violence (2)_frame_00001.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          349.0,
+          220.0,
+          125.0,
+          185.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          335.0,
+          238.0,
+          93.0,
+          161.0
+        ],
+        "category_id": 62,
+        "actual_category": "chair",
+        "id": 1
+      },
+      {
+        "bbox": [
+          92.0,
+          205.0,
+          90.0,
+          177.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 1,
+        "category_id": 4,
+        "verb_name": "sit"
+      }
+    ],
+    "violence_annotation": [],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "assault_violence (21)_frame_00001.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          271.0,
+          171.0,
+          157.0,
+          333.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          397.0,
+          203.0,
+          82.0,
+          314.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          245.0,
+          364.0,
+          42.0,
+          133.0
+        ],
+        "category_id": 39,
+        "actual_category": "baseball bat",
+        "id": 2
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 2,
+        "category_id": 3,
+        "verb_name": "hold"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 1,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 0,
+        "violence_name": "threaten"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "assault_violence (27)_frame_00001.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          184.0,
+          166.0,
+          86.0,
+          276.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          170.0,
+          190.0,
+          44.0,
+          182.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          244.0,
+          117.0,
+          75.0,
+          73.0
+        ],
+        "category_id": 92,
+        "actual_category": "stick",
+        "id": 2
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 1,
+        "object_id": 2,
+        "category_id": 1,
+        "verb_name": "hit"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 1,
+        "victim_id": 0,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "assault_violence (35)_frame_00003.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          42.0,
+          95.0,
+          101.0,
+          270.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          216.0,
+          128.0,
+          85.0,
+          222.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          110.0,
+          176.0,
+          67.0,
+          151.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          125.0,
+          139.0,
+          48.0,
+          61.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 3
+      },
+      {
+        "bbox": [
+          38.0,
+          74.0,
+          80.0,
+          56.0
+        ],
+        "category_id": 92,
+        "actual_category": "stick",
+        "id": 4
+      },
+      {
+        "bbox": [
+          210.0,
+          88.0,
+          136.0,
+          81.0
+        ],
+        "category_id": 92,
+        "actual_category": "stick",
+        "id": 5
+      },
+      {
+        "bbox": [
+          118,
+          95,
+          36,
+          69
+        ],
+        "category_id": 39,
+        "actual_category": "baseball bat",
+        "id": 6
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 4,
+        "category_id": 2,
+        "verb_name": "raise"
+      },
+      {
+        "subject_id": 1,
+        "object_id": 5,
+        "category_id": 2,
+        "verb_name": "raise"
+      },
+      {
+        "subject_id": 3,
+        "object_id": 6,
+        "category_id": 2,
+        "verb_name": "raise"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 2,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      },
+      {
+        "subject_id": 3,
+        "victim_id": 2,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      },
+      {
+        "subject_id": 1,
+        "victim_id": 2,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "assault_violence (36)_frame_00004.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          206.0,
+          138.0,
+          90.0,
+          203.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          0.0,
+          124.0,
+          73.0,
+          198.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          156.0,
+          153.0,
+          45.0,
+          142.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          107.0,
+          229.0,
+          71.0,
+          90.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 3
+      },
+      {
+        "bbox": [
+          55.0,
+          156.0,
+          14.0,
+          51.0
+        ],
+        "category_id": 92,
+        "actual_category": "stick",
+        "id": 4
+      },
+      {
+        "bbox": [
+          130.0,
+          147.0,
+          44.0,
+          80.0
+        ],
+        "category_id": 39,
+        "actual_category": "baseball bat",
+        "id": 5
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 1,
+        "object_id": 4,
+        "category_id": 1,
+        "verb_name": "hit"
+      },
+      {
+        "subject_id": 2,
+        "object_id": 5,
+        "category_id": 1,
+        "verb_name": "hit"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 2,
+        "victim_id": 3,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      },
+      {
+        "subject_id": 1,
+        "victim_id": 3,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      },
+      {
+        "subject_id": 0,
+        "victim_id": 3,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "assault_violence (37)_frame_00001.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          280.0,
+          105.0,
+          112.0,
+          270.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          204.0,
+          166.0,
+          60.0,
+          157.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          69.0,
+          124.0,
+          57.0,
+          195.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          346.0,
+          114.0,
+          33.0,
+          45.0
+        ],
+        "category_id": 92,
+        "actual_category": "stick",
+        "id": 3
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 3,
+        "category_id": 2,
+        "verb_name": "raise"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 1,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "assault_violence (37)_frame_00003.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          61.0,
+          148.0,
+          72.0,
+          170.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          281.0,
+          139.0,
+          54.0,
+          198.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          201.0,
+          199.0,
+          66.0,
+          107.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          112.0,
+          229.0,
+          67.0,
+          97.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 3
+      },
+      {
+        "bbox": [
+          300.0,
+          89.0,
+          73.0,
+          62.0
+        ],
+        "category_id": 92,
+        "actual_category": "stick",
+        "id": 4
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 1,
+        "object_id": 4,
+        "category_id": 1,
+        "verb_name": "hit"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 1,
+        "victim_id": 2,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      },
+      {
+        "subject_id": 0,
+        "victim_id": 3,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "assault_violence (39)_frame_00001.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          262.0,
+          159.0,
+          87.0,
+          161.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          123.0,
+          73.0,
+          124.0,
+          457.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          118.0,
+          142.0,
+          49.0,
+          207.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          400.0,
+          153.0,
+          79.0,
+          230.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 3
+      },
+      {
+        "bbox": [
+          384.0,
+          145.0,
+          37.0,
+          53.0
+        ],
+        "category_id": 39,
+        "actual_category": "baseball bat",
+        "id": 4
+      },
+      {
+        "bbox": [
+          241,
+          295,
+          99,
+          50
+        ],
+        "category_id": 92,
+        "actual_category": "stick",
+        "id": 5
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 3,
+        "object_id": 4,
+        "category_id": 1,
+        "verb_name": "hit"
+      },
+      {
+        "subject_id": 1,
+        "object_id": 5,
+        "category_id": 3,
+        "verb_name": "hold"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 3,
+        "victim_id": 0,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      },
+      {
+        "subject_id": 1,
+        "victim_id": 0,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "assault_violence (39)_frame_00003.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          333.0,
+          163.0,
+          72.0,
+          186.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          216.0,
+          144.0,
+          89.0,
+          230.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          136.0,
+          148.0,
+          66.0,
+          186.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          330.0,
+          137.0,
+          31.0,
+          86.0
+        ],
+        "category_id": 39,
+        "actual_category": "baseball bat",
+        "id": 3
+      },
+      {
+        "bbox": [
+          234,
+          242,
+          70,
+          76
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 4
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 3,
+        "category_id": 2,
+        "verb_name": "raise"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 4,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      },
+      {
+        "subject_id": 1,
+        "victim_id": 4,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      },
+      {
+        "subject_id": 2,
+        "victim_id": 4,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "assault_violence (4)_frame_00002.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          0.0,
+          171.0,
+          95.0,
+          265.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          148.0,
+          200.0,
+          50.0,
+          158.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          409.0,
+          207.0,
+          61.0,
+          153.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          83.0,
+          275.0,
+          99.0,
+          33.0
+        ],
+        "category_id": 43,
+        "actual_category": "tennis racket",
+        "id": 3
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 3,
+        "category_id": 3,
+        "verb_name": "hold"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 1,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      },
+      {
+        "subject_id": 2,
+        "victim_id": 1,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 0,
+        "violence_name": "threaten"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "assault_violence (4)_frame_00003.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          150.0,
+          210.0,
+          71.0,
+          134.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          265.0,
+          202.0,
+          59.0,
+          169.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          54.0,
+          201.0,
+          59.0,
+          144.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          112.0,
+          216.0,
+          48.0,
+          123.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 3
+      },
+      {
+        "bbox": [
+          223.0,
+          213.0,
+          64.0,
+          72.0
+        ],
+        "category_id": 39,
+        "actual_category": "baseball bat",
+        "id": 4
+      },
+      {
+        "bbox": [
+          53.0,
+          199.0,
+          70.0,
+          38.0
+        ],
+        "category_id": 43,
+        "actual_category": "tennis racket",
+        "id": 5
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 2,
+        "object_id": 5,
+        "category_id": 1,
+        "verb_name": "hit"
+      },
+      {
+        "subject_id": 1,
+        "object_id": 4,
+        "category_id": 3,
+        "verb_name": "hold"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 1,
+        "victim_id": 3,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 0,
+        "violence_name": "threaten"
+      },
+      {
+        "subject_id": 2,
+        "victim_id": 3,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 0,
+        "violence_name": "threaten"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "assault_violence (41)_frame_00001.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          0.0,
+          108.0,
+          88.0,
+          266.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          131.0,
+          104.0,
+          124.0,
+          301.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          120.0,
+          191.0,
+          62.0,
+          133.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          422.0,
+          397.0,
+          48.0,
+          70.0
+        ],
+        "category_id": 64,
+        "actual_category": "potted plant",
+        "id": 3
+      },
+      {
+        "bbox": [
+          253.0,
+          258.0,
+          37.0,
+          82.0
+        ],
+        "category_id": 64,
+        "actual_category": "potted plant",
+        "id": 4
+      },
+      {
+        "bbox": [
+          394.0,
+          78.0,
+          85.0,
+          291.0
+        ],
+        "category_id": 64,
+        "actual_category": "potted plant",
+        "id": 5
+      },
+      {
+        "bbox": [
+          405.0,
+          383.0,
+          40.0,
+          65.0
+        ],
+        "category_id": 64,
+        "actual_category": "potted plant",
+        "id": 6
+      },
+      {
+        "bbox": [
+          0.0,
+          88.0,
+          77.0,
+          47.0
+        ],
+        "category_id": 92,
+        "actual_category": "stick",
+        "id": 7
+      },
+      {
+        "bbox": [
+          139.0,
+          83.0,
+          47.0,
+          48.0
+        ],
+        "category_id": 92,
+        "actual_category": "stick",
+        "id": 8
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 7,
+        "category_id": 1,
+        "verb_name": "hit"
+      },
+      {
+        "subject_id": 1,
+        "object_id": 8,
+        "category_id": 1,
+        "verb_name": "hit"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 1,
+        "victim_id": 2,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      },
+      {
+        "subject_id": 0,
+        "victim_id": 2,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "assault_violence (43)_frame_00001.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          129.0,
+          134.0,
+          99.0,
+          242.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          196.0,
+          161.0,
+          53.0,
+          173.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          0.0,
+          159.0,
+          31.0,
+          205.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          439.0,
+          399.0,
+          40.0,
+          57.0
+        ],
+        "category_id": 64,
+        "actual_category": "potted plant",
+        "id": 3
+      },
+      {
+        "bbox": [
+          82.0,
+          97.0,
+          66.0,
+          93.0
+        ],
+        "category_id": 92,
+        "actual_category": "stick",
+        "id": 4
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 4,
+        "category_id": 2,
+        "verb_name": "raise"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 1,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "assault_violence (43)_frame_00002.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          172.0,
+          130.0,
+          121.0,
+          260.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          279.0,
+          268.0,
+          37.0,
+          78.0
+        ],
+        "category_id": 64,
+        "actual_category": "potted plant",
+        "id": 1
+      },
+      {
+        "bbox": [
+          363.0,
+          224.0,
+          93.0,
+          162.0
+        ],
+        "category_id": 64,
+        "actual_category": "potted plant",
+        "id": 2
+      },
+      {
+        "bbox": [
+          137.0,
+          145.0,
+          79.0,
+          191.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 3
+      },
+      {
+        "bbox": [
+          378.0,
+          342.0,
+          34.0,
+          66.0
+        ],
+        "category_id": 64,
+        "actual_category": "potted plant",
+        "id": 4
+      },
+      {
+        "bbox": [
+          439.0,
+          391.0,
+          40.0,
+          67.0
+        ],
+        "category_id": 64,
+        "actual_category": "potted plant",
+        "id": 5
+      },
+      {
+        "bbox": [
+          266.0,
+          195.0,
+          73.0,
+          33.0
+        ],
+        "category_id": 92,
+        "actual_category": "stick",
+        "id": 6
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 6,
+        "category_id": 1,
+        "verb_name": "hit"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": -1,
+        "target_visible": false,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      },
+      {
+        "subject_id": 3,
+        "victim_id": -1,
+        "target_visible": false,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "assault_violence (44)_frame_00003.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          98.0,
+          155.0,
+          60.0,
+          179.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          247.0,
+          159.0,
+          54.0,
+          202.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          173.0,
+          244.0,
+          79.0,
+          93.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          313.0,
+          297.0,
+          23.0,
+          37.0
+        ],
+        "category_id": 64,
+        "actual_category": "potted plant",
+        "id": 3
+      },
+      {
+        "bbox": [
+          436.0,
+          375.0,
+          43.0,
+          58.0
+        ],
+        "category_id": 64,
+        "actual_category": "potted plant",
+        "id": 4
+      },
+      {
+        "bbox": [
+          78.0,
+          176.0,
+          83.0,
+          40.0
+        ],
+        "category_id": 92,
+        "actual_category": "stick",
+        "id": 5
+      },
+      {
+        "bbox": [
+          267.0,
+          131.0,
+          49.0,
+          58.0
+        ],
+        "category_id": 92,
+        "actual_category": "stick",
+        "id": 6
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 5,
+        "category_id": 1,
+        "verb_name": "hit"
+      },
+      {
+        "subject_id": 1,
+        "object_id": 6,
+        "category_id": 1,
+        "verb_name": "hit"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 2,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      },
+      {
+        "subject_id": 1,
+        "victim_id": 2,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "assault_violence (44)_frame_00004.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          233.0,
+          158.0,
+          98.0,
+          206.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          121.0,
+          156.0,
+          78.0,
+          181.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          185.0,
+          246.0,
+          65.0,
+          89.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          306.0,
+          168.0,
+          49.0,
+          32.0
+        ],
+        "category_id": 92,
+        "actual_category": "stick",
+        "id": 3
+      },
+      {
+        "bbox": [
+          142.0,
+          150.0,
+          38.0,
+          79.0
+        ],
+        "category_id": 92,
+        "actual_category": "stick",
+        "id": 4
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 1,
+        "object_id": 4,
+        "category_id": 1,
+        "verb_name": "hit"
+      },
+      {
+        "subject_id": 0,
+        "object_id": 3,
+        "category_id": 1,
+        "verb_name": "hit"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 1,
+        "victim_id": 2,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      },
+      {
+        "subject_id": 0,
+        "victim_id": 2,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "assault_violence (45)_frame_00001.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          200.0,
+          141.0,
+          82.0,
+          207.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          0.0,
+          116.0,
+          53.0,
+          339.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          137.0,
+          126.0,
+          58.0,
+          224.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          363.0,
+          372.0,
+          40.0,
+          56.0
+        ],
+        "category_id": 64,
+        "actual_category": "potted plant",
+        "id": 3
+      },
+      {
+        "bbox": [
+          390.0,
+          155.0,
+          89.0,
+          272.0
+        ],
+        "category_id": 64,
+        "actual_category": "potted plant",
+        "id": 4
+      },
+      {
+        "bbox": [
+          30.0,
+          225.0,
+          63.0,
+          143.0
+        ],
+        "category_id": 92,
+        "actual_category": "stick",
+        "id": 5
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 1,
+        "object_id": 5,
+        "category_id": 3,
+        "verb_name": "hold"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 1,
+        "victim_id": 2,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 0,
+        "violence_name": "threaten"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "assault_violence (46)_frame_00001.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          167.0,
+          244.0,
+          155.0,
+          216.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          390.0,
+          148.0,
+          81.0,
+          254.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          97.0,
+          227.0,
+          117.0,
+          279.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          297.0,
+          270.0,
+          68.0,
+          114.0
+        ],
+        "category_id": 62,
+        "actual_category": "chair",
+        "id": 3
+      },
+      {
+        "bbox": [
+          13.0,
+          88.0,
+          95.0,
+          119.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 4
+      },
+      {
+        "bbox": [
+          263.0,
+          270.0,
+          163.0,
+          80.0
+        ],
+        "category_id": 67,
+        "actual_category": "dining table",
+        "id": 5
+      },
+      {
+        "bbox": [
+          197.0,
+          370.0,
+          75.0,
+          100.0
+        ],
+        "category_id": 62,
+        "actual_category": "chair",
+        "id": 6
+      },
+      {
+        "bbox": [
+          391.0,
+          136.0,
+          56.0,
+          87.0
+        ],
+        "category_id": 39,
+        "actual_category": "baseball bat",
+        "id": 7
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 1,
+        "object_id": 7,
+        "category_id": 2,
+        "verb_name": "raise"
+      },
+      {
+        "subject_id": 0,
+        "object_id": 6,
+        "category_id": 4,
+        "verb_name": "sit"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 1,
+        "victim_id": 0,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 0,
+        "violence_name": "threaten"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "assault_violence (46)_frame_00004.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          231.0,
+          205.0,
+          142.0,
+          206.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          12.0,
+          86.0,
+          96.0,
+          121.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          441.0,
+          186.0,
+          16.0,
+          22.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          421.0,
+          186.0,
+          18.0,
+          23.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 3
+      },
+      {
+        "bbox": [
+          0.0,
+          174.0,
+          104.0,
+          309.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 4
+      },
+      {
+        "bbox": [
+          398.0,
+          208.0,
+          81.0,
+          74.0
+        ],
+        "category_id": 4,
+        "actual_category": "motorcycle",
+        "id": 5
+      },
+      {
+        "bbox": [
+          253.0,
+          296.0,
+          41.0,
+          64.0
+        ],
+        "category_id": 39,
+        "actual_category": "baseball bat",
+        "id": 6
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 6,
+        "category_id": 3,
+        "verb_name": "hold"
+      }
+    ],
+    "violence_annotation": [],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "assault_violence (48)_frame_00002.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          149.0,
+          156.0,
+          81.0,
+          241.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          222.0,
+          160.0,
+          65.0,
+          153.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          95.0,
+          157.0,
+          70.0,
+          178.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          69.0,
+          221.0,
+          36.0,
+          28.0
+        ],
+        "category_id": 92,
+        "actual_category": "stick",
+        "id": 3
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 2,
+        "object_id": 3,
+        "category_id": 1,
+        "verb_name": "hit"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 2,
+        "victim_id": 0,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "assault_violence (5)_frame_00003.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          134.0,
+          246.0,
+          69.0,
+          124.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          287.0,
+          221.0,
+          73.0,
+          151.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          176.0,
+          251.0,
+          53.0,
+          113.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          224.0,
+          227.0,
+          57.0,
+          154.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 3
+      },
+      {
+        "bbox": [
+          147.0,
+          290.0,
+          17.0,
+          30.0
+        ],
+        "category_id": 92,
+        "actual_category": "stick",
+        "id": 4
+      },
+      {
+        "bbox": [
+          351.0,
+          267.0,
+          32.0,
+          38.0
+        ],
+        "category_id": 92,
+        "actual_category": "stick",
+        "id": 5
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 4,
+        "category_id": 1,
+        "verb_name": "hit"
+      },
+      {
+        "subject_id": 1,
+        "object_id": 5,
+        "category_id": 1,
+        "verb_name": "hit"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 2,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      },
+      {
+        "subject_id": 1,
+        "victim_id": 3,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "assault_violence (65)_frame_00000.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          200.0,
+          261.0,
+          79.0,
+          221.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          431.0,
+          304.0,
+          48.0,
+          50.0
+        ],
+        "category_id": 3,
+        "actual_category": "car",
+        "id": 1
+      },
+      {
+        "bbox": [
+          440.0,
+          270.0,
+          39.0,
+          26.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          432.0,
+          162.0,
+          50.0,
+          137.0
+        ],
+        "category_id": 92,
+        "actual_category": "stick",
+        "id": 3
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 2,
+        "object_id": 3,
+        "category_id": 3,
+        "verb_name": "hold"
+      }
+    ],
+    "violence_annotation": [],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "assault_violence (71)_frame_00001.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          136.0,
+          282.0,
+          94.0,
+          308.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          227.0,
+          317.0,
+          14.0,
+          52.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          107.0,
+          322.0,
+          57.0,
+          172.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          314.0,
+          328.0,
+          28.0,
+          26.0
+        ],
+        "category_id": 3,
+        "actual_category": "car",
+        "id": 3
+      },
+      {
+        "bbox": [
+          439.0,
+          332.0,
+          40.0,
+          14.0
+        ],
+        "category_id": 3,
+        "actual_category": "car",
+        "id": 4
+      },
+      {
+        "bbox": [
+          59.0,
+          397.0,
+          58.0,
+          33.0
+        ],
+        "category_id": 39,
+        "actual_category": "baseball bat",
+        "id": 5
+      },
+      {
+        "bbox": [
+          0.0,
+          342.0,
+          165.0,
+          29.0
+        ],
+        "category_id": 92,
+        "actual_category": "stick",
+        "id": 6
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 6,
+        "category_id": 1,
+        "verb_name": "hit"
+      },
+      {
+        "subject_id": 2,
+        "object_id": 5,
+        "category_id": 1,
+        "verb_name": "hit"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 2,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      },
+      {
+        "subject_id": 2,
+        "victim_id": 0,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "assault_violence (72)_frame_00004.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          122.0,
+          337.0,
+          119.0,
+          157.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          212.0,
+          422.0,
+          108.0,
+          92.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          0.0,
+          320.0,
+          46.0,
+          23.0
+        ],
+        "category_id": 3,
+        "actual_category": "car",
+        "id": 2
+      },
+      {
+        "bbox": [
+          434.0,
+          331.0,
+          44.0,
+          15.0
+        ],
+        "category_id": 3,
+        "actual_category": "car",
+        "id": 3
+      },
+      {
+        "bbox": [
+          311.0,
+          328.0,
+          26.0,
+          25.0
+        ],
+        "category_id": 3,
+        "actual_category": "car",
+        "id": 4
+      },
+      {
+        "bbox": [
+          195.0,
+          398.0,
+          127.0,
+          23.0
+        ],
+        "category_id": 92,
+        "actual_category": "stick",
+        "id": 5
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 5,
+        "category_id": 1,
+        "verb_name": "hit"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 1,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "assault_violence (73)_frame_00003.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          117.0,
+          285.0,
+          135.0,
+          258.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          251.0,
+          293.0,
+          119.0,
+          222.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          208.0,
+          287.0,
+          48.0,
+          79.0
+        ],
+        "category_id": 92,
+        "actual_category": "stick",
+        "id": 2
+      },
+      {
+        "bbox": [
+          341.0,
+          270.0,
+          36.0,
+          86.0
+        ],
+        "category_id": 39,
+        "actual_category": "baseball bat",
+        "id": 3
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 2,
+        "category_id": 1,
+        "verb_name": "hit"
+      },
+      {
+        "subject_id": 1,
+        "object_id": 3,
+        "category_id": 2,
+        "verb_name": "raise"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 1,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      },
+      {
+        "subject_id": 1,
+        "victim_id": 0,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "assault_violence (74)_frame_00001.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          396.0,
+          213.0,
+          83.0,
+          224.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          107.0,
+          263.0,
+          88.0,
+          165.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          59.0,
+          257.0,
+          99.0,
+          195.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          0.0,
+          292.0,
+          198.0,
+          163.0
+        ],
+        "category_id": 15,
+        "actual_category": "bench",
+        "id": 3
+      },
+      {
+        "bbox": [
+          420.0,
+          346.0,
+          32.0,
+          39.0
+        ],
+        "category_id": 43,
+        "actual_category": "tennis racket",
+        "id": 4
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 2,
+        "object_id": 3,
+        "category_id": 4,
+        "verb_name": "sit"
+      },
+      {
+        "subject_id": 1,
+        "object_id": 3,
+        "category_id": 4,
+        "verb_name": "sit"
+      },
+      {
+        "subject_id": 0,
+        "object_id": 4,
+        "category_id": 3,
+        "verb_name": "hold"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 1,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 0,
+        "violence_name": "threaten"
+      },
+      {
+        "subject_id": 0,
+        "victim_id": 2,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 0,
+        "violence_name": "threaten"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "assault_violence (77)_frame_00002.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          1.0,
+          374.0,
+          218.0,
+          265.0
+        ],
+        "category_id": 62,
+        "actual_category": "chair",
+        "id": 0
+      },
+      {
+        "bbox": [
+          166.0,
+          181.0,
+          117.0,
+          196.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          57.0,
+          254.0,
+          124.0,
+          229.0
+        ],
+        "category_id": 62,
+        "actual_category": "chair",
+        "id": 2
+      },
+      {
+        "bbox": [
+          276.0,
+          237.0,
+          146.0,
+          192.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 3
+      },
+      {
+        "bbox": [
+          0.0,
+          257.0,
+          88.0,
+          269.0
+        ],
+        "category_id": 67,
+        "actual_category": "dining table",
+        "id": 4
+      },
+      {
+        "bbox": [
+          71.0,
+          233.0,
+          88.0,
+          92.0
+        ],
+        "category_id": 62,
+        "actual_category": "chair",
+        "id": 5
+      },
+      {
+        "bbox": [
+          460.0,
+          223.0,
+          19.0,
+          40.0
+        ],
+        "category_id": 73,
+        "actual_category": "laptop",
+        "id": 6
+      },
+      {
+        "bbox": [
+          212.0,
+          235.0,
+          44.0,
+          89.0
+        ],
+        "category_id": 62,
+        "actual_category": "chair",
+        "id": 7
+      },
+      {
+        "bbox": [
+          280.0,
+          307.0,
+          87.0,
+          108.0
+        ],
+        "category_id": 62,
+        "actual_category": "chair",
+        "id": 8
+      },
+      {
+        "bbox": [
+          384.0,
+          219.0,
+          37.0,
+          33.0
+        ],
+        "category_id": 73,
+        "actual_category": "laptop",
+        "id": 9
+      },
+      {
+        "bbox": [
+          354.0,
+          215.0,
+          32.0,
+          31.0
+        ],
+        "category_id": 73,
+        "actual_category": "laptop",
+        "id": 10
+      },
+      {
+        "bbox": [
+          177.0,
+          152.0,
+          119.0,
+          108.0
+        ],
+        "category_id": 92,
+        "actual_category": "stick",
+        "id": 11
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 1,
+        "object_id": 11,
+        "category_id": 1,
+        "verb_name": "hit"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 1,
+        "victim_id": 3,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "assault_violence (77)_frame_00003.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          56.0,
+          255.0,
+          126.0,
+          229.0
+        ],
+        "category_id": 62,
+        "actual_category": "chair",
+        "id": 0
+      },
+      {
+        "bbox": [
+          0.0,
+          376.0,
+          219.0,
+          263.0
+        ],
+        "category_id": 62,
+        "actual_category": "chair",
+        "id": 1
+      },
+      {
+        "bbox": [
+          307.0,
+          239.0,
+          126.0,
+          212.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          223.0,
+          203.0,
+          128.0,
+          249.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 3
+      },
+      {
+        "bbox": [
+          0.0,
+          255.0,
+          87.0,
+          271.0
+        ],
+        "category_id": 67,
+        "actual_category": "dining table",
+        "id": 4
+      },
+      {
+        "bbox": [
+          165.0,
+          231.0,
+          44.0,
+          93.0
+        ],
+        "category_id": 62,
+        "actual_category": "chair",
+        "id": 5
+      },
+      {
+        "bbox": [
+          70.0,
+          233.0,
+          90.0,
+          93.0
+        ],
+        "category_id": 62,
+        "actual_category": "chair",
+        "id": 6
+      },
+      {
+        "bbox": [
+          384.0,
+          219.0,
+          38.0,
+          32.0
+        ],
+        "category_id": 73,
+        "actual_category": "laptop",
+        "id": 7
+      },
+      {
+        "bbox": [
+          460.0,
+          222.0,
+          19.0,
+          42.0
+        ],
+        "category_id": 73,
+        "actual_category": "laptop",
+        "id": 8
+      },
+      {
+        "bbox": [
+          357.0,
+          216.0,
+          29.0,
+          33.0
+        ],
+        "category_id": 73,
+        "actual_category": "laptop",
+        "id": 9
+      },
+      {
+        "bbox": [
+          293.0,
+          277.0,
+          123.0,
+          139.0
+        ],
+        "category_id": 62,
+        "actual_category": "chair",
+        "id": 10
+      },
+      {
+        "bbox": [
+          315.0,
+          303.0,
+          126.0,
+          39.0
+        ],
+        "category_id": 92,
+        "actual_category": "stick",
+        "id": 11
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 3,
+        "object_id": 11,
+        "category_id": 1,
+        "verb_name": "hit"
+      },
+      {
+        "subject_id": 2,
+        "object_id": 10,
+        "category_id": 4,
+        "verb_name": "sit"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 3,
+        "victim_id": 2,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "assault_violence (82)_frame_00001.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          155.0,
+          128.0,
+          144.0,
+          248.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          277.0,
+          124.0,
+          99.0,
+          219.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          88.0,
+          136.0,
+          65.0,
+          188.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          430.0,
+          362.0,
+          45.0,
+          66.0
+        ],
+        "category_id": 64,
+        "actual_category": "potted plant",
+        "id": 3
+      },
+      {
+        "bbox": [
+          176.0,
+          135.0,
+          22.0,
+          37.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 4
+      },
+      {
+        "bbox": [
+          121.0,
+          103.0,
+          37.0,
+          79.0
+        ],
+        "category_id": 92,
+        "actual_category": "stick",
+        "id": 5
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 2,
+        "object_id": 5,
+        "category_id": 1,
+        "verb_name": "hit"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 1,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      },
+      {
+        "subject_id": 2,
+        "victim_id": 4,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "assault_violence (82)_frame_00004.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          120.0,
+          121.0,
+          126.0,
+          302.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          357.0,
+          242.0,
+          122.0,
+          346.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          46.0,
+          135.0,
+          83.0,
+          216.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          320.0,
+          319.0,
+          23.0,
+          39.0
+        ],
+        "category_id": 64,
+        "actual_category": "potted plant",
+        "id": 3
+      },
+      {
+        "bbox": [
+          87.0,
+          139.0,
+          50.0,
+          69.0
+        ],
+        "category_id": 92,
+        "actual_category": "stick",
+        "id": 4
+      },
+      {
+        "bbox": [
+          241.0,
+          176.0,
+          25.0,
+          68.0
+        ],
+        "category_id": 39,
+        "actual_category": "baseball bat",
+        "id": 5
+      },
+      {
+        "bbox": [
+          191,
+          241,
+          59,
+          108
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 6
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 5,
+        "category_id": 1,
+        "verb_name": "hit"
+      },
+      {
+        "subject_id": 2,
+        "object_id": 4,
+        "category_id": 1,
+        "verb_name": "hit"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 1,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      },
+      {
+        "subject_id": 2,
+        "victim_id": 6,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "assault_violence (83)_frame_00001.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          166.0,
+          115.0,
+          88.0,
+          267.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          6.0,
+          136.0,
+          67.0,
+          202.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          437.0,
+          320.0,
+          42.0,
+          129.0
+        ],
+        "category_id": 64,
+        "actual_category": "potted plant",
+        "id": 2
+      },
+      {
+        "bbox": [
+          109.0,
+          203.0,
+          59.0,
+          100.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 3
+      },
+      {
+        "bbox": [
+          336.0,
+          352.0,
+          37.0,
+          49.0
+        ],
+        "category_id": 64,
+        "actual_category": "potted plant",
+        "id": 4
+      },
+      {
+        "bbox": [
+          38.0,
+          60.0,
+          114.0,
+          85.0
+        ],
+        "category_id": 39,
+        "actual_category": "baseball bat",
+        "id": 5
+      },
+      {
+        "bbox": [
+          135.0,
+          133.0,
+          119.0,
+          28.0
+        ],
+        "category_id": 92,
+        "actual_category": "stick",
+        "id": 6
+      },
+      {
+        "bbox": [
+          69.0,
+          129.0,
+          80.0,
+          256.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 7
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 6,
+        "category_id": 1,
+        "verb_name": "hit"
+      },
+      {
+        "subject_id": 7,
+        "object_id": 5,
+        "category_id": 1,
+        "verb_name": "hit"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 3,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      },
+      {
+        "subject_id": 7,
+        "victim_id": 3,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      },
+      {
+        "subject_id": 1,
+        "victim_id": 3,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "assault_violence (94)_frame_00001.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          15.0,
+          277.0,
+          147.0,
+          251.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          223.0,
+          294.0,
+          125.0,
+          230.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          437.0,
+          328.0,
+          42.0,
+          14.0
+        ],
+        "category_id": 3,
+        "actual_category": "car",
+        "id": 2
+      },
+      {
+        "bbox": [
+          133.0,
+          235.0,
+          96.0,
+          125.0
+        ],
+        "category_id": 92,
+        "actual_category": "stick",
+        "id": 3
+      },
+      {
+        "bbox": [
+          185.0,
+          261.0,
+          59.0,
+          54.0
+        ],
+        "category_id": 39,
+        "actual_category": "baseball bat",
+        "id": 4
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 3,
+        "category_id": 1,
+        "verb_name": "hit"
+      },
+      {
+        "subject_id": 1,
+        "object_id": 4,
+        "category_id": 1,
+        "verb_name": "hit"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 1,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      },
+      {
+        "subject_id": 1,
+        "victim_id": 0,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "assault_violence (99)_frame_00004.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          95.0,
+          193.0,
+          145.0,
+          332.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          337.0,
+          210.0,
+          80.0,
+          218.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          223.0,
+          224.0,
+          90.0,
+          238.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          129.0,
+          214.0,
+          35.0,
+          53.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 3
+      },
+      {
+        "bbox": [
+          226.0,
+          195.0,
+          105.0,
+          90.0
+        ],
+        "category_id": 39,
+        "actual_category": "baseball bat",
+        "id": 4
+      },
+      {
+        "bbox": [
+          150.0,
+          163.0,
+          29.0,
+          33.0
+        ],
+        "category_id": 43,
+        "actual_category": "tennis racket",
+        "id": 5
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 4,
+        "category_id": 1,
+        "verb_name": "hit"
+      },
+      {
+        "subject_id": 3,
+        "object_id": 5,
+        "category_id": 1,
+        "verb_name": "hit"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 2,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      },
+      {
+        "subject_id": 1,
+        "victim_id": 2,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      },
+      {
+        "subject_id": 3,
+        "victim_id": 2,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (1)_frame_00003.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          5.0,
+          278.0,
+          171.0,
+          115.0
+        ],
+        "category_id": 15,
+        "actual_category": "bench",
+        "id": 0
+      },
+      {
+        "bbox": [
+          231.0,
+          221.0,
+          75.0,
+          209.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          319.0,
+          216.0,
+          73.0,
+          184.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          44.0,
+          275.0,
+          49.0,
+          54.0
+        ],
+        "category_id": 27,
+        "actual_category": "backpack",
+        "id": 3
+      },
+      {
+        "bbox": [
+          291.0,
+          250.0,
+          17.0,
+          10.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 4
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 1,
+        "object_id": 4,
+        "category_id": 0,
+        "verb_name": "aim"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 1,
+        "victim_id": 2,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (100)_frame_00003.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          70.0,
+          283.0,
+          149.0,
+          230.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          164.0,
+          443.0,
+          237.0,
+          55.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          201.0,
+          344.0,
+          40.0,
+          28.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 2
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 2,
+        "category_id": 0,
+        "verb_name": "aim"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 1,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (102)_frame_00004.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          267.0,
+          275.0,
+          160.0,
+          245.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          68.0,
+          478.0,
+          235.0,
+          117.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          161.0,
+          446.0,
+          165.0,
+          37.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          239.0,
+          367.0,
+          43.0,
+          55.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 3
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 3,
+        "category_id": 0,
+        "verb_name": "aim"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 2,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      },
+      {
+        "subject_id": 0,
+        "victim_id": 1,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (104)_frame_00000.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          136.0,
+          119.0,
+          79.0,
+          196.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          450.0,
+          157.0,
+          29.0,
+          139.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          134.0,
+          226.0,
+          20.0,
+          84.0
+        ],
+        "category_id": 39,
+        "actual_category": "baseball bat",
+        "id": 2
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 2,
+        "category_id": 3,
+        "verb_name": "hold"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 1,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 0,
+        "violence_name": "threaten"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (106)_frame_00002.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          110.0,
+          266.0,
+          227.0,
+          346.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          309.0,
+          241.0,
+          170.0,
+          388.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          302.0,
+          315.0,
+          110.0,
+          22.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 2
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 1,
+        "object_id": 2,
+        "category_id": 0,
+        "verb_name": "aim"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 1,
+        "victim_id": 0,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (106)_frame_00003.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          299.0,
+          250.0,
+          168.0,
+          294.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          0.0,
+          484.0,
+          308.0,
+          152.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          258.0,
+          317.0,
+          76.0,
+          57.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 2
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 2,
+        "category_id": 0,
+        "verb_name": "aim"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 1,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (111)_frame_00004.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          116.0,
+          222.0,
+          82.0,
+          131.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          169.0,
+          228.0,
+          134.0,
+          133.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          444.0,
+          261.0,
+          35.0,
+          113.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          284.0,
+          247.0,
+          19.0,
+          16.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 3
+      },
+      {
+        "bbox": [
+          405.0,
+          259.0,
+          33.0,
+          18.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 4
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 2,
+        "object_id": 4,
+        "category_id": 0,
+        "verb_name": "aim"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 1,
+        "victim_id": 2,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      },
+      {
+        "subject_id": 2,
+        "victim_id": 1,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (118)_frame_00002.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          263.0,
+          142.0,
+          141.0,
+          205.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          90.0,
+          175.0,
+          134.0,
+          171.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          202.0,
+          147.0,
+          92.0,
+          173.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          411.0,
+          239.0,
+          27.0,
+          36.0
+        ],
+        "category_id": 62,
+        "actual_category": "chair",
+        "id": 3
+      },
+      {
+        "bbox": [
+          188.0,
+          152.0,
+          19.0,
+          14.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 4
+      },
+      {
+        "bbox": [
+          255.0,
+          179.0,
+          32.0,
+          18.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 5
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 2,
+        "object_id": 4,
+        "category_id": 0,
+        "verb_name": "aim"
+      },
+      {
+        "subject_id": 0,
+        "object_id": 5,
+        "category_id": 0,
+        "verb_name": "aim"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 1,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      },
+      {
+        "subject_id": 2,
+        "victim_id": 1,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (120)_frame_00000.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          223.0,
+          116.0,
+          65.0,
+          212.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          272.0,
+          227.0,
+          19.0,
+          29.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 1
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 1,
+        "category_id": 3,
+        "verb_name": "hold"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": -1,
+        "target_visible": false,
+        "target_type": "human",
+        "category_id": 0,
+        "violence_name": "threaten"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (123)_frame_00001.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          256.0,
+          143.0,
+          111.0,
+          232.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          201.0,
+          126.0,
+          64.0,
+          226.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          154.0,
+          176.0,
+          88.0,
+          45.0
+        ],
+        "category_id": 39,
+        "actual_category": "baseball bat",
+        "id": 2
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 1,
+        "object_id": 2,
+        "category_id": 1,
+        "verb_name": "hit"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 1,
+        "victim_id": 0,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (123)_frame_00003.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          239.0,
+          181.0,
+          138.0,
+          206.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          84.0,
+          250.0,
+          141.0,
+          119.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          215.0,
+          232.0,
+          36.0,
+          19.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 2
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 2,
+        "category_id": 0,
+        "verb_name": "aim"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 1,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (124)_frame_00002.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          255.0,
+          162.0,
+          89.0,
+          188.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          48.0,
+          153.0,
+          163.0,
+          202.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          230.0,
+          204.0,
+          37.0,
+          26.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 2
+      },
+      {
+        "bbox": [
+          153.0,
+          93.0,
+          101.0,
+          79.0
+        ],
+        "category_id": 39,
+        "actual_category": "baseball bat",
+        "id": 3
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 1,
+        "object_id": 3,
+        "category_id": 2,
+        "verb_name": "raise"
+      },
+      {
+        "subject_id": 0,
+        "object_id": 2,
+        "category_id": 0,
+        "verb_name": "aim"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 1,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      },
+      {
+        "subject_id": 1,
+        "victim_id": 0,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 0,
+        "violence_name": "threaten"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (125)_frame_00002.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          390.0,
+          121.0,
+          89.0,
+          213.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          127.0,
+          93.0,
+          83.0,
+          300.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          388.0,
+          228.0,
+          26.0,
+          25.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 2
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 2,
+        "category_id": 2,
+        "verb_name": "raise"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 1,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 0,
+        "violence_name": "threaten"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (128)_frame_00002.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          0.0,
+          216.0,
+          163.0,
+          200.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          238.0,
+          227.0,
+          104.0,
+          83.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          327.0,
+          240.0,
+          77.0,
+          74.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          100.0,
+          258.0,
+          129.0,
+          19.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 3
+      },
+      {
+        "bbox": [
+          320.0,
+          304.0,
+          74.0,
+          96.0
+        ],
+        "category_id": 62,
+        "actual_category": "chair",
+        "id": 4
+      },
+      {
+        "bbox": [
+          263.0,
+          302.0,
+          57.0,
+          98.0
+        ],
+        "category_id": 62,
+        "actual_category": "chair",
+        "id": 5
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 3,
+        "category_id": 0,
+        "verb_name": "aim"
+      },
+      {
+        "subject_id": 2,
+        "object_id": 4,
+        "category_id": 4,
+        "verb_name": "sit"
+      },
+      {
+        "subject_id": 1,
+        "object_id": 5,
+        "category_id": 4,
+        "verb_name": "sit"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 1,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      },
+      {
+        "subject_id": 0,
+        "victim_id": 2,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (132)_frame_00004.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          124.0,
+          286.0,
+          110.0,
+          212.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          250.0,
+          251.0,
+          94.0,
+          293.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          187.0,
+          315.0,
+          43.0,
+          24.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 2
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 2,
+        "category_id": 0,
+        "verb_name": "aim"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 1,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (139)_frame_00001.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          0.0,
+          278.0,
+          126.0,
+          270.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          141.0,
+          264.0,
+          109.0,
+          277.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          307.0,
+          299.0,
+          70.0,
+          229.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          271.0,
+          353.0,
+          58.0,
+          176.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 3
+      },
+      {
+        "bbox": [
+          394.0,
+          343.0,
+          46.0,
+          33.0
+        ],
+        "category_id": 3,
+        "actual_category": "car",
+        "id": 4
+      },
+      {
+        "bbox": [
+          111.0,
+          307.0,
+          25.0,
+          11.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 5
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 5,
+        "category_id": 0,
+        "verb_name": "aim"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 1,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (14)_frame_00004.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          61.0,
+          275.0,
+          132.0,
+          219.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          89.0,
+          332.0,
+          121.0,
+          179.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          163.0,
+          318.0,
+          25.0,
+          36.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 2
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 2,
+        "category_id": 0,
+        "verb_name": "aim"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 1,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (142)_frame_00001.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          0.0,
+          267.0,
+          158.0,
+          318.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          334.0,
+          331.0,
+          104.0,
+          198.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          223.0,
+          295.0,
+          106.0,
+          226.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          307.0,
+          279.0,
+          72.0,
+          237.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 3
+      },
+      {
+        "bbox": [
+          111.0,
+          301.0,
+          71.0,
+          16.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 4
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 4,
+        "category_id": 0,
+        "verb_name": "aim"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 2,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      },
+      {
+        "subject_id": 0,
+        "victim_id": 3,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (143)_frame_00001.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          359.0,
+          287.0,
+          120.0,
+          280.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          124.0,
+          387.0,
+          186.0,
+          146.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          70.0,
+          460.0,
+          76.0,
+          89.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          268.0,
+          447.0,
+          74.0,
+          97.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 3
+      },
+      {
+        "bbox": [
+          283.0,
+          325.0,
+          14.0,
+          47.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 4
+      },
+      {
+        "bbox": [
+          315.0,
+          334.0,
+          76.0,
+          43.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 5
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 5,
+        "category_id": 0,
+        "verb_name": "aim"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 1,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (17)_frame_00002.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          243.0,
+          118.0,
+          179.0,
+          342.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          375.0,
+          123.0,
+          68.0,
+          247.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          35.0,
+          133.0,
+          80.0,
+          221.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          86.0,
+          130.0,
+          57.0,
+          190.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 3
+      },
+      {
+        "bbox": [
+          0.0,
+          267.0,
+          34.0,
+          52.0
+        ],
+        "category_id": 64,
+        "actual_category": "potted plant",
+        "id": 4
+      },
+      {
+        "bbox": [
+          411.0,
+          289.0,
+          36.0,
+          30.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 5
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 5,
+        "category_id": 2,
+        "verb_name": "raise"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 2,
+        "victim_id": 3,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      },
+      {
+        "subject_id": 0,
+        "victim_id": 1,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 0,
+        "violence_name": "threaten"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (17)_frame_00003.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          80.0,
+          119.0,
+          206.0,
+          325.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          374.0,
+          213.0,
+          96.0,
+          150.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          318.0,
+          273.0,
+          39.0,
+          50.0
+        ],
+        "category_id": 64,
+        "actual_category": "potted plant",
+        "id": 2
+      },
+      {
+        "bbox": [
+          0.0,
+          268.0,
+          34.0,
+          52.0
+        ],
+        "category_id": 64,
+        "actual_category": "potted plant",
+        "id": 3
+      },
+      {
+        "bbox": [
+          55.0,
+          281.0,
+          46.0,
+          47.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 4
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 4,
+        "category_id": 3,
+        "verb_name": "hold"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": -1,
+        "target_visible": false,
+        "target_type": "human",
+        "category_id": 0,
+        "violence_name": "threaten"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (25)_frame_00003.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          1.0,
+          237.0,
+          198.0,
+          142.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          195.0,
+          161.0,
+          122.0,
+          219.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          296.0,
+          119.0,
+          47.0,
+          118.0
+        ],
+        "category_id": 39,
+        "actual_category": "baseball bat",
+        "id": 2
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 1,
+        "object_id": 2,
+        "category_id": 2,
+        "verb_name": "raise"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 1,
+        "victim_id": 0,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (25)_frame_00004.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          193.0,
+          116.0,
+          98.0,
+          234.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          47.0,
+          217.0,
+          152.0,
+          151.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          171.0,
+          246.0,
+          35.0,
+          90.0
+        ],
+        "category_id": 39,
+        "actual_category": "baseball bat",
+        "id": 2
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 2,
+        "category_id": 3,
+        "verb_name": "hold"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 1,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 0,
+        "violence_name": "threaten"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (30)_frame_00000.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          62.0,
+          206.0,
+          76.0,
+          192.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          306.0,
+          217.0,
+          52.0,
+          160.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          339.0,
+          207.0,
+          64.0,
+          184.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          87.0,
+          277.0,
+          69.0,
+          69.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 3
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 3,
+        "category_id": 2,
+        "verb_name": "raise"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 1,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 0,
+        "violence_name": "threaten"
+      },
+      {
+        "subject_id": 0,
+        "victim_id": 2,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 0,
+        "violence_name": "threaten"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (30)_frame_00001.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          97.0,
+          217.0,
+          92.0,
+          164.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          142.0,
+          246.0,
+          102.0,
+          22.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 1
+      },
+      {
+        "bbox": [
+          309,
+          217,
+          112,
+          186
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          282,
+          216,
+          92,
+          160
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 3
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 2,
+        "category_id": 0,
+        "verb_name": "aim"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 3,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      },
+      {
+        "subject_id": 0,
+        "victim_id": 2,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (30)_frame_00003.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          81.0,
+          221.0,
+          85.0,
+          162.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          363.0,
+          266.0,
+          116.0,
+          140.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          352.0,
+          243.0,
+          71.0,
+          129.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          114.0,
+          246.0,
+          97.0,
+          26.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 3
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 3,
+        "category_id": 0,
+        "verb_name": "aim"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 2,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      },
+      {
+        "subject_id": 0,
+        "victim_id": 1,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (32)_frame_00001.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          0.0,
+          210.0,
+          111.0,
+          229.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          367.0,
+          248.0,
+          51.0,
+          71.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          309.0,
+          249.0,
+          57.0,
+          65.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          24.0,
+          259.0,
+          156.0,
+          32.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 3
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 3,
+        "category_id": 0,
+        "verb_name": "aim"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 1,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      },
+      {
+        "subject_id": 0,
+        "victim_id": 2,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (34)_frame_00003.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          22.0,
+          219.0,
+          164.0,
+          210.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          347.0,
+          271.0,
+          44.0,
+          47.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          288.0,
+          263.0,
+          65.0,
+          49.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          121.0,
+          256.0,
+          111.0,
+          35.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 3
+      },
+      {
+        "bbox": [
+          291.0,
+          310.0,
+          69.0,
+          79.0
+        ],
+        "category_id": 62,
+        "actual_category": "chair",
+        "id": 4
+      },
+      {
+        "bbox": [
+          349.0,
+          278.0,
+          81.0,
+          123.0
+        ],
+        "category_id": 62,
+        "actual_category": "chair",
+        "id": 5
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 3,
+        "category_id": 0,
+        "verb_name": "aim"
+      },
+      {
+        "subject_id": 1,
+        "object_id": 5,
+        "category_id": 4,
+        "verb_name": "sit"
+      },
+      {
+        "subject_id": 2,
+        "object_id": 4,
+        "category_id": 4,
+        "verb_name": "sit"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 2,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      },
+      {
+        "subject_id": 0,
+        "victim_id": 1,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (37)_frame_00002.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          52.0,
+          213.0,
+          173.0,
+          223.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          303.0,
+          207.0,
+          56.0,
+          85.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          161.0,
+          253.0,
+          111.0,
+          34.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 2
+      },
+      {
+        "bbox": [
+          304,
+          236,
+          53,
+          56
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 3
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 2,
+        "category_id": 0,
+        "verb_name": "aim"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 3,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      },
+      {
+        "subject_id": 1,
+        "victim_id": 3,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 3,
+        "violence_name": "kidnapping"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (38)_frame_00002.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          0.0,
+          197.0,
+          110.0,
+          234.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          252.0,
+          200.0,
+          72.0,
+          89.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          0.0,
+          246.0,
+          166.0,
+          60.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 2
+      },
+      {
+        "bbox": [
+          260.0,
+          234.0,
+          58.0,
+          59.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 3
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 2,
+        "category_id": 0,
+        "verb_name": "aim"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 3,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 3,
+        "violence_name": "kidnapping"
+      },
+      {
+        "subject_id": 1,
+        "victim_id": 3,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 3,
+        "violence_name": "kidnapping"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (38)_frame_00004.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          27.0,
+          207.0,
+          175.0,
+          212.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          196.0,
+          198.0,
+          62.0,
+          109.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          280.0,
+          251.0,
+          65.0,
+          37.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          144.0,
+          244.0,
+          105.0,
+          36.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 3
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 3,
+        "category_id": 0,
+        "verb_name": "aim"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 2,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (39)_frame_00004.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          60.0,
+          212.0,
+          95.0,
+          211.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          276.0,
+          249.0,
+          42.0,
+          42.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          55.0,
+          227.0,
+          148.0,
+          29.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 2
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 2,
+        "category_id": 0,
+        "verb_name": "aim"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 1,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (43)_frame_00003.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          139.0,
+          297.0,
+          121.0,
+          221.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          0.0,
+          494.0,
+          235.0,
+          87.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          123.0,
+          363.0,
+          50.0,
+          57.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 2
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 2,
+        "category_id": 0,
+        "verb_name": "aim"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 1,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (51)_frame_00004.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          66.0,
+          295.0,
+          111.0,
+          226.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          158.0,
+          436.0,
+          209.0,
+          94.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          152.0,
+          369.0,
+          49.0,
+          41.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 2
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 2,
+        "category_id": 0,
+        "verb_name": "aim"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 1,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (52)_frame_00002.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          14.0,
+          256.0,
+          169.0,
+          330.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          259.0,
+          259.0,
+          152.0,
+          286.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          127.0,
+          270.0,
+          71.0,
+          20.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 2
+      },
+      {
+        "bbox": [
+          234.0,
+          292.0,
+          35.0,
+          15.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 3
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 2,
+        "category_id": 0,
+        "verb_name": "aim"
+      },
+      {
+        "subject_id": 1,
+        "object_id": 3,
+        "category_id": 0,
+        "verb_name": "aim"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 1,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      },
+      {
+        "subject_id": 1,
+        "victim_id": 0,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (54)_frame_00001.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          303.0,
+          291.0,
+          103.0,
+          236.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          83.0,
+          242.0,
+          86.0,
+          340.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          54.0,
+          319.0,
+          16.0,
+          35.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          312.0,
+          400.0,
+          33.0,
+          46.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 3
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 3,
+        "category_id": 0,
+        "verb_name": "aim"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 1,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 0,
+        "violence_name": "threaten"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (54)_frame_00004.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          130.0,
+          266.0,
+          133.0,
+          305.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          350.0,
+          308.0,
+          83.0,
+          215.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          348.0,
+          405.0,
+          47.0,
+          45.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 2
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 1,
+        "object_id": 2,
+        "category_id": 0,
+        "verb_name": "aim"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 1,
+        "victim_id": 0,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (56)_frame_00003.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          87.0,
+          279.0,
+          105.0,
+          245.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          370.0,
+          278.0,
+          109.0,
+          121.0
+        ],
+        "category_id": 3,
+        "actual_category": "car",
+        "id": 1
+      },
+      {
+        "bbox": [
+          170.0,
+          439.0,
+          215.0,
+          109.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          152.0,
+          365.0,
+          35.0,
+          35.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 3
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 3,
+        "category_id": 0,
+        "verb_name": "aim"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 2,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (57)_frame_00003.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          213.0,
+          285.0,
+          126.0,
+          222.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          39.0,
+          296.0,
+          152.0,
+          241.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          241.0,
+          287.0,
+          18.0,
+          16.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 2
+      },
+      {
+        "bbox": [
+          160.0,
+          321.0,
+          54.0,
+          15.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 3
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 1,
+        "object_id": 3,
+        "category_id": 0,
+        "verb_name": "aim"
+      },
+      {
+        "subject_id": 0,
+        "object_id": 2,
+        "category_id": 0,
+        "verb_name": "aim"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 1,
+        "victim_id": 0,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      },
+      {
+        "subject_id": 0,
+        "victim_id": 1,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (58)_frame_00003.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          98.0,
+          283.0,
+          140.0,
+          235.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          267.0,
+          259.0,
+          137.0,
+          289.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          186.0,
+          293.0,
+          23.0,
+          13.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 2
+      },
+      {
+        "bbox": [
+          241.0,
+          299.0,
+          71.0,
+          28.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 3
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 1,
+        "object_id": 3,
+        "category_id": 0,
+        "verb_name": "aim"
+      },
+      {
+        "subject_id": 0,
+        "object_id": 2,
+        "category_id": 0,
+        "verb_name": "aim"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 1,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      },
+      {
+        "subject_id": 1,
+        "victim_id": 0,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (59)_frame_00001.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          195.0,
+          255.0,
+          95.0,
+          217.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          214.0,
+          270.0,
+          41.0,
+          45.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 1
+      },
+      {
+        "bbox": [
+          195.0,
+          305.0,
+          94.0,
+          164.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 1,
+        "category_id": 0,
+        "verb_name": "aim"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 2,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      },
+      {
+        "subject_id": 0,
+        "victim_id": 2,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 3,
+        "violence_name": "kidnapping"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (59)_frame_00004.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          175.0,
+          362.0,
+          175.0,
+          105.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          34.0,
+          213.0,
+          106.0,
+          208.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          176.0,
+          362.0,
+          14.0,
+          21.0
+        ],
+        "category_id": 77,
+        "actual_category": "cell phone",
+        "id": 2
+      },
+      {
+        "bbox": [
+          122.0,
+          277.0,
+          43.0,
+          37.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 3
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 1,
+        "object_id": 3,
+        "category_id": 0,
+        "verb_name": "aim"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 1,
+        "victim_id": 0,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (60)_frame_00002.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          190.0,
+          275.0,
+          107.0,
+          154.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          199.0,
+          313.0,
+          74.0,
+          167.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          187.0,
+          270.0,
+          39.0,
+          45.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 2
+      },
+      {
+        "bbox": [
+          225.0,
+          321.0,
+          17.0,
+          22.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 3
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 2,
+        "category_id": 0,
+        "verb_name": "aim"
+      },
+      {
+        "subject_id": 1,
+        "object_id": 3,
+        "category_id": 0,
+        "verb_name": "aim"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 1,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      },
+      {
+        "subject_id": 1,
+        "victim_id": 0,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (62)_frame_00000.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          194.0,
+          271.0,
+          122.0,
+          184.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          186.0,
+          204.0,
+          102.0,
+          241.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          185.0,
+          238.0,
+          53.0,
+          41.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 2
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 1,
+        "object_id": 2,
+        "category_id": 0,
+        "verb_name": "aim"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 1,
+        "victim_id": 0,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      },
+      {
+        "subject_id": 1,
+        "victim_id": 0,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 3,
+        "violence_name": "kidnapping"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (69)_frame_00004.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          306.0,
+          229.0,
+          159.0,
+          293.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          0.0,
+          296.0,
+          223.0,
+          200.0
+        ],
+        "category_id": 4,
+        "actual_category": "motorcycle",
+        "id": 1
+      },
+      {
+        "bbox": [
+          291.0,
+          305.0,
+          86.0,
+          78.0
+        ],
+        "category_id": 4,
+        "actual_category": "motorcycle",
+        "id": 2
+      },
+      {
+        "bbox": [
+          246.0,
+          314.0,
+          52.0,
+          68.0
+        ],
+        "category_id": 4,
+        "actual_category": "motorcycle",
+        "id": 3
+      },
+      {
+        "bbox": [
+          191.0,
+          311.0,
+          58.0,
+          68.0
+        ],
+        "category_id": 4,
+        "actual_category": "motorcycle",
+        "id": 4
+      },
+      {
+        "bbox": [
+          120.0,
+          295.0,
+          115.0,
+          44.0
+        ],
+        "category_id": 3,
+        "actual_category": "car",
+        "id": 5
+      },
+      {
+        "bbox": [
+          308.0,
+          288.0,
+          17.0,
+          19.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 6
+      },
+      {"bbox": [117, 341, 133, 156], 
+      "category_id": 1, 
+      "actual_category": "person", 
+      "id": 7
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 6,
+        "category_id": 0,
+        "verb_name": "aim"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 7,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (7)_frame_00000.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          214.0,
+          156.0,
+          201.0,
+          298.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          106.0,
+          203.0,
+          87.0,
+          262.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          170.0,
+          337.0,
+          77.0,
+          142.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          210.0,
+          289.0,
+          39.0,
+          33.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 3
+      },
+      {
+        "bbox": [
+          151.0,
+          303.0,
+          27.0,
+          34.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 4
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 3,
+        "category_id": 0,
+        "verb_name": "aim"
+      },
+      {
+        "subject_id": 1,
+        "object_id": 4,
+        "category_id": 0,
+        "verb_name": "aim"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 2,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      },
+      {
+        "subject_id": 1,
+        "victim_id": 2,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (7)_frame_00001.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          220.0,
+          158.0,
+          195.0,
+          297.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          107.0,
+          220.0,
+          86.0,
+          240.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          220.0,
+          294.0,
+          24.0,
+          42.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 2
+      },
+      {
+        "bbox": [
+          139.0,
+          325.0,
+          27.0,
+          44.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 3
+      },
+      {
+        "bbox": [
+          138.0,
+          350.0,
+          105.0,
+          128.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 4
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 2,
+        "category_id": 0,
+        "verb_name": "aim"
+      },
+      {
+        "subject_id": 1,
+        "object_id": 3,
+        "category_id": 0,
+        "verb_name": "aim"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 1,
+        "victim_id": 4,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      },
+      {
+        "subject_id": 0,
+        "victim_id": 4,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (7)_frame_00003.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          96.0,
+          203.0,
+          109.0,
+          260.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          432.0,
+          143.0,
+          47.0,
+          282.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          197.0,
+          311.0,
+          232.0,
+          144.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          194.0,
+          306.0,
+          36.0,
+          33.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 3
+      },
+      {
+        "bbox": [
+          433.0,
+          292.0,
+          31.0,
+          37.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 4
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 3,
+        "category_id": 0,
+        "verb_name": "aim"
+      },
+      {
+        "subject_id": 1,
+        "object_id": 4,
+        "category_id": 3,
+        "verb_name": "hold"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 2,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      },
+      {
+        "subject_id": 1,
+        "victim_id": 2,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (7)_frame_00004.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          411.0,
+          136.0,
+          68.0,
+          293.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          110.0,
+          205.0,
+          109.0,
+          231.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          209.0,
+          303.0,
+          210.0,
+          138.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          203.0,
+          259.0,
+          34.0,
+          26.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 3
+      },
+      {
+        "bbox": [
+          409.0,
+          294.0,
+          20.0,
+          47.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 4
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 1,
+        "object_id": 3,
+        "category_id": 0,
+        "verb_name": "aim"
+      },
+      {
+        "subject_id": 0,
+        "object_id": 4,
+        "category_id": 0,
+        "verb_name": "aim"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 1,
+        "victim_id": 2,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      },
+      {
+        "subject_id": 0,
+        "victim_id": 2,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (80)_frame_00004.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          0.0,
+          202.0,
+          237.0,
+          428.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          192.0,
+          282.0,
+          78.0,
+          33.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 1
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 1,
+        "category_id": 0,
+        "verb_name": "aim"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": -1,
+        "target_visible": false,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (83)_frame_00003.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          29.0,
+          254.0,
+          109.0,
+          224.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          199.0,
+          279.0,
+          139.0,
+          210.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          377.0,
+          306.0,
+          43.0,
+          16.0
+        ],
+        "category_id": 3,
+        "actual_category": "car",
+        "id": 2
+      },
+      {
+        "bbox": [
+          203.0,
+          280.0,
+          26.0,
+          16.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 3
+      },
+      {
+        "bbox": [
+          114.0,
+          276.0,
+          58.0,
+          17.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 4
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 4,
+        "category_id": 0,
+        "verb_name": "aim"
+      },
+      {
+        "subject_id": 1,
+        "object_id": 3,
+        "category_id": 0,
+        "verb_name": "aim"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 1,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      },
+      {
+        "subject_id": 1,
+        "victim_id": 0,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (83)_frame_00004.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          47.0,
+          359.0,
+          165.0,
+          134.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          166.0,
+          390.0,
+          303.0,
+          149.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          376.0,
+          306.0,
+          47.0,
+          17.0
+        ],
+        "category_id": 3,
+        "actual_category": "car",
+        "id": 2
+      },
+      {
+        "bbox": [
+          265.0,
+          306.0,
+          25.0,
+          23.0
+        ],
+        "category_id": 3,
+        "actual_category": "car",
+        "id": 3
+      },
+      {
+        "bbox": [
+          187.0,
+          407.0,
+          66.0,
+          22.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 4
+      },
+      {
+        "bbox": [
+          438.0,
+          381.0,
+          26.0,
+          33.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 5
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 1,
+        "object_id": 5,
+        "category_id": 0,
+        "verb_name": "aim"
+      },
+      {
+        "subject_id": 0,
+        "object_id": 4,
+        "category_id": 0,
+        "verb_name": "aim"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 1,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      },
+      {
+        "subject_id": 1,
+        "victim_id": 0,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 0,
+        "violence_name": "threaten"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (85)_frame_00000.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          2.0,
+          234.0,
+          111.0,
+          391.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          232.0,
+          302.0,
+          33.0,
+          97.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          207.0,
+          349.0,
+          25.0,
+          50.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          262.0,
+          325.0,
+          20.0,
+          74.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 3
+      },
+      {
+        "bbox": [
+          369.0,
+          329.0,
+          41.0,
+          13.0
+        ],
+        "category_id": 3,
+        "actual_category": "car",
+        "id": 4
+      },
+      {
+        "bbox": [
+          90.0,
+          342.0,
+          34.0,
+          33.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 5
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 5,
+        "category_id": 3,
+        "verb_name": "hold"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": -1,
+        "target_visible": false,
+        "target_type": "human",
+        "category_id": 0,
+        "violence_name": "threaten"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (87)_frame_00001.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          159.0,
+          288.0,
+          88.0,
+          169.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          312.0,
+          314.0,
+          56.0,
+          140.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          228.0,
+          303.0,
+          56.0,
+          146.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          275.0,
+          336.0,
+          34.0,
+          114.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 3
+      },
+      {
+        "bbox": [
+          21.0,
+          321.0,
+          38.0,
+          20.0
+        ],
+        "category_id": 3,
+        "actual_category": "car",
+        "id": 4
+      },
+      {
+        "bbox": [
+          435.0,
+          345.0,
+          42.0,
+          16.0
+        ],
+        "category_id": 3,
+        "actual_category": "car",
+        "id": 5
+      },
+      {
+        "bbox": [
+          231.0,
+          306.0,
+          19.0,
+          14.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 6
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 6,
+        "category_id": 0,
+        "verb_name": "aim"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 2,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (88)_frame_00002.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          221.0,
+          282.0,
+          130.0,
+          241.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          262.0,
+          472.0,
+          203.0,
+          80.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          442.0,
+          330.0,
+          37.0,
+          14.0
+        ],
+        "category_id": 3,
+        "actual_category": "car",
+        "id": 2
+      },
+      {
+        "bbox": [
+          318.0,
+          329.0,
+          25.0,
+          25.0
+        ],
+        "category_id": 3,
+        "actual_category": "car",
+        "id": 3
+      },
+      {
+        "bbox": [
+          320.0,
+          360.0,
+          51.0,
+          54.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 4
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 4,
+        "category_id": 0,
+        "verb_name": "aim"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 1,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (9)_frame_00002.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          130.0,
+          201.0,
+          52.0,
+          159.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          35.0,
+          322.0,
+          71.0,
+          52.0
+        ],
+        "category_id": 27,
+        "actual_category": "backpack",
+        "id": 1
+      },
+      {
+        "bbox": [
+          262.0,
+          208.0,
+          80.0,
+          164.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          0.0,
+          357.0,
+          110.0,
+          208.0
+        ],
+        "category_id": 15,
+        "actual_category": "bench",
+        "id": 3
+      },
+      {
+        "bbox": [
+          215.0,
+          234.0,
+          23.0,
+          17.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 4
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 2,
+        "object_id": 4,
+        "category_id": 0,
+        "verb_name": "aim"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 2,
+        "victim_id": 0,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (9)_frame_00003.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          247.0,
+          204.0,
+          109.0,
+          164.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          0.0,
+          358.0,
+          114.0,
+          209.0
+        ],
+        "category_id": 15,
+        "actual_category": "bench",
+        "id": 1
+      },
+      {
+        "bbox": [
+          168.0,
+          278.0,
+          51.0,
+          60.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          41.0,
+          323.0,
+          69.0,
+          51.0
+        ],
+        "category_id": 27,
+        "actual_category": "backpack",
+        "id": 3
+      },
+      {
+        "bbox": [
+          248.0,
+          249.0,
+          15.0,
+          14.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 4
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 4,
+        "category_id": 0,
+        "verb_name": "aim"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 2,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (92)_frame_00002.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          211.0,
+          411.0,
+          135.0,
+          121.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          101.0,
+          336.0,
+          43.0,
+          105.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          441.0,
+          260.0,
+          38.0,
+          291.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          0.0,
+          328.0,
+          32.0,
+          69.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 3
+      },
+      {
+        "bbox": [
+          62.0,
+          471.0,
+          90.0,
+          52.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 4
+      },
+      {
+        "bbox": [
+          -6.0,
+          495.0,
+          107.0,
+          148.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 5
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 5,
+        "object_id": 4,
+        "category_id": 0,
+        "verb_name": "aim"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 5,
+        "victim_id": 0,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (93)_frame_00002.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          205.0,
+          336.0,
+          211.0,
+          281.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          419.0,
+          309.0,
+          60.0,
+          33.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          324.0,
+          327.0,
+          28.0,
+          15.0
+        ],
+        "category_id": 3,
+        "actual_category": "car",
+        "id": 2
+      },
+      {
+        "bbox": [
+          375.0,
+          312.0,
+          68.0,
+          32.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 3
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 1,
+        "object_id": 3,
+        "category_id": 0,
+        "verb_name": "aim"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 1,
+        "victim_id": 0,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (94)_frame_00002.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          162.0,
+          338.0,
+          97.0,
+          194.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          407.0,
+          334.0,
+          44.0,
+          17.0
+        ],
+        "category_id": 3,
+        "actual_category": "car",
+        "id": 1
+      },
+      {
+        "bbox": [
+          164.0,
+          389.0,
+          92.0,
+          145.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 2
+      },
+      {
+        "bbox": [
+          227.0,
+          307.0,
+          34.0,
+          128.0
+        ],
+        "category_id": 92,
+        "actual_category": "stick",
+        "id": 3
+      },
+      {
+        "bbox": [
+          211,
+          381,
+          50,
+          26
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 4
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 2,
+        "object_id": 3,
+        "category_id": 1,
+        "verb_name": "hit"
+      },
+      {
+        "subject_id": 0,
+        "object_id": 4,
+        "category_id": 0,
+        "verb_name": "aim"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 2,
+        "victim_id": 0,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 1,
+        "violence_name": "attack"
+      },
+      {
+        "subject_id": 0,
+        "victim_id": 2,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  },
+  {
+    "file_name": "gun_violence (98)_frame_00002.jpg",
+    "annotations": [
+      {
+        "bbox": [
+          143.0,
+          281.0,
+          98.0,
+          256.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 0
+      },
+      {
+        "bbox": [
+          162.0,
+          324.0,
+          109.0,
+          216.0
+        ],
+        "category_id": 1,
+        "actual_category": "person",
+        "id": 1
+      },
+      {
+        "bbox": [
+          309.0,
+          318.0,
+          63.0,
+          31.0
+        ],
+        "category_id": 3,
+        "actual_category": "car",
+        "id": 2
+      },
+      {
+        "bbox": [
+          169.0,
+          280.0,
+          24.0,
+          27.0
+        ],
+        "category_id": 91,
+        "actual_category": "gun",
+        "id": 3
+      }
+    ],
+    "hoi_annotation": [
+      {
+        "subject_id": 0,
+        "object_id": 3,
+        "category_id": 0,
+        "verb_name": "aim"
+      }
+    ],
+    "violence_annotation": [
+      {
+        "subject_id": 0,
+        "victim_id": 1,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 3,
+        "violence_name": "kidnapping"
+      },
+      {
+        "subject_id": 0,
+        "victim_id": 1,
+        "target_visible": true,
+        "target_type": "human",
+        "category_id": 2,
+        "violence_name": "point_weapon_at"
+      }
+    ],
+    "height": 640,
+    "width": 480
+  }
+]
