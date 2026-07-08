@@ -1,6 +1,7 @@
 # ------------------------------------------------------------------------
 # Modified from HOTR (https://github.com/kakaobrain/hotr)
 # Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved
+# Licensed under the Apache License, Version 2.0 (the "License")
 # ------------------------------------------------------------------------
 """
 Modules to compute the matching cost and solve the corresponding LSAP.
