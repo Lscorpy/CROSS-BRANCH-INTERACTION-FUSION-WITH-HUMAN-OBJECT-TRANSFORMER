@@ -66,9 +66,8 @@ CBIF_HOTR/
 ```
 
 
-
-```markdown
 ## Acknowledgements
+```markdown
 
 This project is built upon [Official repository for HOTR: End-to-End Human-Object Interaction Detection with Transformers (CVPR'21, Oral Presentation)](https://github.com/kakaobrain/hotr.git), 
 
