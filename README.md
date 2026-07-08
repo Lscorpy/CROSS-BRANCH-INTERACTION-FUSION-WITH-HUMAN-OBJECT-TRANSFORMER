@@ -59,7 +59,7 @@ python visualize_three_stage.py
 CBIF_HOTR/
 ├── dataset/               # Raw and processed data
 ├── CBIF_HOTR/              # Saved model checkpoints
-├── checkpoint/            # Exploratory notebooks
+├── checkpoint/           
 ├── Run_CBIF_HOTR.py                 # Source code
 ├── requirement.txt       # Python dependencies
 └── README.md
