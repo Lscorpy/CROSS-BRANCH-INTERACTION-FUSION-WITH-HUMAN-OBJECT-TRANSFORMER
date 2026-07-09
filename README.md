@@ -52,6 +52,7 @@ download the model from Google Drive
 ```bash
 python visualize_three_stage.py
 ```
+> **Note:** Before running the project, please update all file and directory paths in the notebooks and scripts to match the locations on your own device. The paths provided in the repository are examples from the original development environment and may not exist on your system.
 
 ## Project Structure
 
